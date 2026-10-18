@@ -1,3 +1,17 @@
+<div align="center">
+  <img src="github-banner.png" width="100%" alt="Johanna — Building thoughtful digital experiences" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Business+Informatics+Student;Aspiring+Full-Stack+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
 ## Hi there 👋
 
 Hi! I'm Johanna, a 22 year old Business Informatics student based in Cluj-Napoca, Romania, with a passion for web development and UI/UX design.
